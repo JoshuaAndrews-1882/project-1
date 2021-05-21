@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Montserrat&display=swap');
 
 * {
     margin: 0;
@@ -13,4 +13,12 @@
     height: 300px;
     background-size: cover;
     background-position: center;
+}
+
+#header-image h1 {
+    font-family: 'Bangers', cursive;
+    float: left;
+    font-size: 4.8em;
+    margin: 2rem;
+    color: white;
 }
