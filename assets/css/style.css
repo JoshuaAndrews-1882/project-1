@@ -11,8 +11,9 @@ html {
 }
 
 body {
+    color: black;
     font-family: 'Montserrat', sans-serif;
-    font-weight: 400;
+    font-weight: 900;
 }
 
 /* header image and title */
@@ -22,6 +23,7 @@ body {
     background-position: center;
     background-size: cover;
     height: 300px;
+    padding-bottom: 5vh;
 }
 
 #header-image h1 {
@@ -33,11 +35,13 @@ body {
 h1, h2 {
     color: whitesmoke;
     font-family: 'Bangers', cursive;
+    text-transform: uppercase;
 }
 
 h2 {
     font-size: 3.6em;
 }
+
 
 /* navigation links */
 
@@ -73,6 +77,17 @@ h2 {
     background-image: url("../images/alligator2.jpg");
     background-position: center;
     background-size: cover;
-    height: 600px;
+    height: 400px;
+    padding-left: 5vh;
+    padding-top: 37vh;
     width: 100%;
 }
+
+/* text styles */
+
+.text-center {
+    text-align: center;
+}
+
+/* home page information */
+
