@@ -25,11 +25,18 @@ body {
 }
 
 #header-image h1 {
-    color: whitesmoke;
     float: left;
-    font-family: 'Bangers', cursive;
     font-size: 4.8em;
     margin: 2rem;
+}
+
+h1, h2 {
+    color: whitesmoke;
+    font-family: 'Bangers', cursive;
+}
+
+h2 {
+    font-size: 3.6em;
 }
 
 /* navigation links */
