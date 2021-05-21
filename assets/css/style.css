@@ -66,3 +66,13 @@ h2 {
 .active {
     border-bottom: 2px solid whitesmoke;
 }
+
+/* home image */
+
+#home-image {
+    background-image: url("../images/alligator2.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 600px;
+    width: 100%;
+}
