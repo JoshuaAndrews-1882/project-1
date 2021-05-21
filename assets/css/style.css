@@ -101,3 +101,24 @@ h2 {
 #activities {
 
 }
+
+/* footer */
+
+footer {
+    height: 150px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 4%;
+    padding: 5%;
+    color: whitesmoke;
+}
