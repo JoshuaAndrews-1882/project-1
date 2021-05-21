@@ -11,7 +11,7 @@ html {
 }
 
 body {
-    color: black;
+    color: whitesmoke;
     font-family: 'Montserrat', sans-serif;
     font-weight: 900;
 }
@@ -40,6 +40,8 @@ h1, h2 {
 
 h2 {
     font-size: 3.6em;
+    text-decoration: underline;
+    color: whitesmoke;
 }
 
 
@@ -77,9 +79,9 @@ h2 {
     background-image: url("../images/alligator2.jpg");
     background-position: center;
     background-size: cover;
-    height: 400px;
+    height: 300px;
     padding-left: 5vh;
-    padding-top: 37vh;
+    padding-top: 45vh;
     width: 100%;
 }
 
@@ -91,3 +93,6 @@ h2 {
 
 /* home page information */
 
+#information {
+    padding: 20px;
+}
