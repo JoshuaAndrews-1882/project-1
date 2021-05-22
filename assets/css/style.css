@@ -99,16 +99,16 @@ h3 {
 }
 
 
+/* activities */
 
-
-
+div img {
+    padding: 20px;
+}
 
 
 /* footer */
 
-footer {
-    height: 150px;
-}
+
 
 .social-networks {
     text-align: center;
