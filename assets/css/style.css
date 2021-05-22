@@ -96,12 +96,6 @@ h2 {
     padding: 20px;
 }
 
-/* activities */
-
-#activities {
-
-}
-
 /* footer */
 
 footer {
@@ -119,6 +113,9 @@ footer {
 .social-networks i {
     font-size: 160%;
     margin: 4%;
-    padding: 5%;
+    padding: 4%;
     color: whitesmoke;
 }
+
+/* alligator video */
+
