@@ -94,7 +94,7 @@ h3 {
 
 /* home page information */
 
-#information {
+.information {
     padding: 20px;
 }
 
@@ -133,4 +133,22 @@ footer {
     background-size: cover;
     background-position: center;
     padding-top: 20px;
+}
+
+/* media queries */
+
+@media screen and (min-width:610px) {
+    nav ul{
+        display: flex;
+    }
+    nav ul li{
+        flex: 1;
+        margin: 2px;
+    }
+    .what-to-do {
+        display: flex;
+    }
+    .times {
+        flex:1;
+    }
 }
