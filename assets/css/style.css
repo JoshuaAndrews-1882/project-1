@@ -98,17 +98,8 @@ h3 {
     padding: 20px;
 }
 
-.times {
-    position: relative;
-    text-align: center;
-}
 
-.centered {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
+
 
 
 
