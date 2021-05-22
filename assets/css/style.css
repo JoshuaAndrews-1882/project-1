@@ -46,10 +46,6 @@ h3 {
     font-size: 2.4em;
 }
 
-h4 {
-    font-family: 'Montserrat', sans-serif;
-}
-
 /* navigation links */
 
 #menu {
@@ -102,9 +98,20 @@ h4 {
     padding: 20px;
 }
 
-.what-to-do {
-    padding: 20px;
+.times {
+    position: relative;
+    text-align: center;
 }
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+
 
 /* footer */
 
