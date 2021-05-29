@@ -79,6 +79,10 @@ p, h4 {
     border-bottom: 2px solid whitesmoke;
 }
 
+nav {
+    padding: 0 0 20px 0;
+}
+
 /* home image */
 
 #home-image {
@@ -95,12 +99,6 @@ p, h4 {
 
 .text-center {
     text-align: center;
-}
-
-/* home page information */
-
-.information {
-    padding: 20px;
 }
 
 
