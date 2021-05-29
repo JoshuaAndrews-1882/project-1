@@ -161,8 +161,7 @@ input[type=text], input[type=email], textarea {
     box-sizing: border-box;
     margin-bottom: 10px;
     resize: vertical;
-    color: whitesmoke;
-    background-color: #234F32;
+    color: black;
 }
 
 input[type=submit] {
