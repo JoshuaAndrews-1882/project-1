@@ -151,6 +151,14 @@ input[type=text], input[type=email], textarea {
     resize: vertical;
 }
 
+input[type=submit] {
+    background-color: black;
+    color: whitesmoke;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
 
 /* media queries */
 
