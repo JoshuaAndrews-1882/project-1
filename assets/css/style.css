@@ -47,7 +47,7 @@ h3 {
     font-size: 2.4em;
 }
 
-p, h4 {
+p, h4, li {
     font-size: 1.2em;
 }
 
@@ -149,7 +149,6 @@ nav {
     border-radius: 5px;
     margin-bottom: 10px;
     resize: vertical;
-    color: black;
 }
 
 
@@ -183,6 +182,7 @@ input[type=submit]:hover {
 .contact {
     background-color: black;
     border-radius: 5px;
+    color: black;
 }
 
 
