@@ -6,9 +6,13 @@ Alligator Bay will be especially useful for tourists coming to visit the Evergla
 
 ## Features
 
-### Existing Features
+### Header
 
 - __Navigation Bar__
 
-- A fully responsive navigation bar, that is shown on all three pages.  It has a background image with the Logo and has links to the Home page, Meet The Alligators page and the Contact page, it is identical on each page.
-- It will allow users to change to the page they need easily without having to go back to a previous page.
+  - A fully responsive navigation bar, that is shown on all three pages.  It has a background image with the Logo and has links to the Home page, Meet The Alligators page and the Contact page, it is identical on each page.
+  - It will allow users to change to the page they need easily without having to go back to a previous page.
+
+- __Times Section__
+
+  - The times section shows the user
