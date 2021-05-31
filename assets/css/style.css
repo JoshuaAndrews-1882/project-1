@@ -149,6 +149,19 @@ nav {
 	padding: 20px 0 20px 0;
 	width: 100%;
 }
+/* gallery */
+
+.photos {
+	clear: both;
+	column-count: 4;
+	column-gap: 0;
+	line-height: 0;
+}
+
+.photos > img {
+	width: 100%;
+}
+
 /* contact information */
 
 .contact-info {
