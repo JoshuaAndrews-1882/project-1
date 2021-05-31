@@ -1,8 +1,25 @@
 # Alligator Bay
 
+## About
+
+I chose to do a website on an Alligator place in the Everglades, Florida due to my own experience visiting a place when I was over there and fell in love with these magnificent creatures so I really wanted to do a website incorporating them.
+
+## Usage
+
+Alligator Bay was built for mobile display first, as it will work well on any sized screen upwards, rather than starting on a big screen and trying to cram all the design in to a smaller screen.
+Mobile usage is now higher for internet searching than any other device, so ensuring it works perfect on that device first is most important.
+
 Alligator Bay is a site for people who want to go experience seeing alligators in a safe enviornment in the Everglades, Florida.
 The site is targetted towards any one that has an interested in seeing alligators, people performing with alligators and alligators getting fed.
 Alligator Bay will be especially useful for tourists coming to visit the Everglades.
+
+## Design
+
+I wanted a design that matched the colours of the Everglades and gave the user a positive feedback.  I decided to use an everglade green color, as it was the obvious choice and it looked great.
+For the images I wanted something that was interesting but also on the side of scary, as people are naturally scared of them but this leads people to be intrigued by them so matching the images to match this feeling was important.
+
+I wanted it to be straight forward, a few images, short information about the place, the times of opening and activities and a contact form.
+For people visiting a location they want this information available and easily accessible straight away, they don't want to go through loads of information before realising it isn't for them.
 
 ![Amiresponsive Image](assets/readme-images/amiresponsive.jpg)
 
@@ -113,10 +130,12 @@ Alligator Bay will be especially useful for tourists coming to visit the Evergla
   - Lower speed caused by image format and the video being embedded from YouTube.
 ![Desktop Web Speed](assets/readme-images/desktopspeed.JPG)
 
+### Personal Check
+  - Used a PC, tablet and a mobile to click on the different links and the videos and all worked ok.
+
 ### Unfixed Bugs
 
-- Image files being larger, attempted to use a different format that would give a smaller image size but Gitpod doesn't support.
-- Video being embedded for YouTube causing a slower page load, feel this is the best way as it would help guide people to the websites YouTube page.
+- There are no known bugs in the code.
 
 ## Deployment
 
@@ -139,6 +158,7 @@ The link for this site is as followed - https://joshuaandrews-1882.github.io/pro
 - The icons for the footer were taken from [Font Awesome](https://fontawesome.com/).
 - Instructions to space the social media icons was taken from the Love Running project by [Code Institute](https://codeinstitute.net/).
 - Instructions to do the gallery was taken from the Love Running project as it suited my different sized pictures, the Love Running project is by [Code Institute](https://condeinstitute.net/).
+- For fonts I used [Google Fonts](https://fonts.google.com/).
 
 ### Media
 
