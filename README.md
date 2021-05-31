@@ -4,6 +4,8 @@ Alligator Bay is a site for people who want to go experience seeing alligators i
 The site is targetted towards any one that has an interested in seeing alligators, people performing with alligators and alligators getting fed.
 Alligator Bay will be especially useful for tourists coming to visit the Everglades.
 
+![Amiresponsive Image](/readme-images/amiresponsive.jpg)
+
 ## Features
 
 ### Header
