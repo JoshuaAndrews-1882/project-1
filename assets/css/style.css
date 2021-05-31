@@ -205,7 +205,7 @@ label {
 }
 /* media queries */
 
-@media screen and (min-width:665px) {
+@media screen and (min-width:630px) {
 	nav ul {
 		display: flex;
 	}
