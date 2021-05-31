@@ -86,10 +86,10 @@ Alligator Bay will be especially useful for tourists coming to visit the Evergla
 ### Validator Testing
 
 - __HTML__
-  - No errors were found when checking on [w3c validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjoshuaandrews-1882.github.io%2Fproject-1%2Findex.html)
+  - No errors were found when checking on [w3c validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjoshuaandrews-1882.github.io%2Fproject-1%2Findex.html).
 - __CSS__
-  - No errors were found when checking on [(Jigsaw) validator](http://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjoshuaandrews-1882.github.io%2Fproject-1%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=)
-  - Put the code through [Code Beautify CSS validator](https://codebeautify.org/cssvalidate), only error is with padding and font import.
+  - No errors were found when checking on [(Jigsaw) validator](http://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjoshuaandrews-1882.github.io%2Fproject-1%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=).
+  - No errors were found when checking on [Code Beautify CSS validator](https://codebeautify.org/cssvalidate).
 
 ### Page Speed
 
@@ -108,6 +108,5 @@ Alligator Bay will be especially useful for tourists coming to visit the Evergla
 
 ### Unfixed Bugs
 
-- Padding not correct as used to position how I wanted them seen, can remove padding once I have gained skills in photoshop to edit the images to be exactly as needed.
 - Image files being larger, attempted to use a different format that would give a smaller image size but Gitpod doesn't support.
-- Video being embedded for YouTube causing a slower page load, feel this is the best weay as it would help guide people to the websites YouTube page.
+- Video being embedded for YouTube causing a slower page load, feel this is the best way as it would help guide people to the websites YouTube page.
