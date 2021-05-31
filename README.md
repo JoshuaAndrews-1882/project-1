@@ -19,6 +19,10 @@ Alligator Bay will be especially useful for tourists coming to visit the Evergla
 
   - The first section of information on the home page shows the entry price to Alligator Bay, some information regarding alligators, what they can see at Alligator Bay and what a amenities are available.
 
+- __Three Images__
+
+   - There are 3 images sitting above the opening times, show times and feeding times.  This is to give the user a visual feeling on alligators, to draw their attention and help keep them interested.
+
 - __Times Section__
 
   - The times section shows the user
