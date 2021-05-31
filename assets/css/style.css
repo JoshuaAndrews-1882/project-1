@@ -10,12 +10,12 @@ html {
 	background: #234F32;
 }
 /* text styles */
+
 body, input, label, textarea {
 	color: whitesmoke;
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 900;
 }
-
 .text-center {
 	text-align: center;
 }
@@ -42,14 +42,12 @@ h3 {
 	letter-spacing: 3px;
 	text-transform: uppercase;
 }
-
 h4 {
 	color: whitesmoke;
 	font-family: 'Montserrat', sans-serif;
 	font-size: 1.2em;
 	font-weight: 900;
 }
-
 p, li {
 	font-size: 1.2em;
 }
