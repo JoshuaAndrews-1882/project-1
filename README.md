@@ -89,7 +89,7 @@ Alligator Bay will be especially useful for tourists coming to visit the Evergla
   - No errors were found when checking on [w3c validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjoshuaandrews-1882.github.io%2Fproject-1%2Findex.html)
 - __CSS__
   - No errors were found when checking on [(Jigsaw) validator](http://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjoshuaandrews-1882.github.io%2Fproject-1%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=)
-  - Put the code through [Code Beautify CSS validator](https://codebeautify.org/cssvalidate), only error is with padding.
+  - Put the code through [Code Beautify CSS validator](https://codebeautify.org/cssvalidate), only error is with padding and font import.
 
 ### Page Speed
 
