@@ -59,3 +59,8 @@ Alligator Bay will be especially useful for tourists coming to visit the Evergla
 
   - Contact page giving the address, contact number and a contact form for people to locate and contact Alligator Bay.
   - This will allow the user to easily find where Alligator Bay is located and contact Alligator Bay for any enquiries they may have.
+
+- __Contact Bottom Image__
+
+  - A large image of an alligator that is 100% width of the page.
+  - This will help keep the user interested in the site, keeping them visually happy and interested.
