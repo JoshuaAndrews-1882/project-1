@@ -93,7 +93,7 @@ Alligator Bay will be especially useful for tourists coming to visit the Evergla
 
 ### Page Speed
 
-#### Tested Mobile and Desktop Speed on PageSpeed Insights
+#### Tested Mobile and Desktop Speed on [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 
 - __Mobile__
 
