@@ -42,5 +42,5 @@ Alligator Bay will be especially useful for tourists coming to visit the Evergla
 
 - __Our Alligators__
 
- - This section gives some information about the alligators and shows a video of the alligators.
- - This will give the user a visual experience of what they would come to see.
+  - This section gives some information about the alligators and shows a video of the alligators.
+  - This will give the user a visual experience of what they would come to see.
