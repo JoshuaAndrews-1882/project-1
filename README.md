@@ -44,3 +44,13 @@ Alligator Bay will be especially useful for tourists coming to visit the Evergla
 
   - This section gives some information about the alligators and shows a video of the alligators.
   - This will give the user a visual experience of what they would come to see.
+
+- __Alligator Facts__
+
+  - Some information regarding facts about alligators.
+  - This will give the user some information about alligators and get them more interested in coming to see them.
+
+- __Contact__
+
+  - Contact page giving the address, contact number and a contact form for people to locate and contact Alligator Bay.
+  - This will allow the user to easily find where Alligator Bay is located and contact Alligator Bay for any enquiries they may have.
