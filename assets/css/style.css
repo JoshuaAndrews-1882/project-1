@@ -153,7 +153,7 @@ nav {
 
 .photos {
 	clear: both;
-	column-count: 4;
+	column-count: 2;
 	column-gap: 0;
 	line-height: 0;
 }
@@ -218,5 +218,8 @@ label {
 	}
 	.times {
 		flex: 1;
+	}
+	.photos {
+		column-count: 3;
 	}
 }
