@@ -19,7 +19,7 @@ I wanted a design that matched the colours of the Everglades and gave the user a
 For the images I wanted something that was interesting but also on the side of scary, as people are naturally scared of them but this leads people to be intrigued by them so matching the images to match this feeling was important.
 
 I wanted it to be straight forward, a few images, short information about the place, the times of opening and activities and a contact form.
-For people visiting a location they want this information available and easily accessible straight away, they don't want to go through loads of information before realising it isn't for them.
+For people visiting a location they want this information easily available, they don't want to go through loads of information before realising it isn't for them.
 
 ![Amiresponsive Image](assets/readme-images/amiresponsive.jpg)
 
