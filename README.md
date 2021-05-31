@@ -15,6 +15,8 @@ Alligator Bay will be especially useful for tourists coming to visit the Evergla
   - A fully responsive navigation bar, that is shown on all three pages.  It has a background image with the Logo and has links to the Home page, Meet The Alligators page and the Contact page, it is identical on each page.
   - It will allow users to change to the page they need easily without having to go back to a previous page.
 
+![Navigation Image](assets/readme-images/nav.jpg)
+
 - __Home Page Information__
 
   - The first section of information on the home page shows the entry price to Alligator Bay, some information regarding alligators, what they can see at Alligator Bay and what a amenities are available.
