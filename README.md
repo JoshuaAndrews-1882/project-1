@@ -98,12 +98,12 @@ Alligator Bay will be especially useful for tourists coming to visit the Evergla
 - __Mobile__
 
 ![Mobile Web Speed](assets/readme-images/mobilespeed.JPG)
-- Lower percentage caused by image format and the video being embedded from YouTube.
+  - Lower percentage caused by image format and the video being embedded from YouTube.
 
 - __Desktop__
 
 ![Desktop Web Speed](assets/readme-images/desktopspeed.JPG)
-- Lower percentage caused by image format and the video being embedded from YouTube.
+  - Lower percentage caused by image format and the video being embedded from YouTube.
 
 ### Unfixed Bugs
 
