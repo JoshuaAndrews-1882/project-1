@@ -66,6 +66,13 @@ Alligator Bay will be especially useful for tourists coming to visit the Evergla
 
 ![Meet The Alligators Bottom Image](assets/readme-images/mtabimage.jpg)
 
+- __Gallery__
+
+  - Loads of images of alligators using a masonry design.
+  - The images will engage the user on the site to know what they can expect to see and experience at Alligator bay.
+
+![Gallery Image](assets/readme-images/gallery.jpg)
+
 - __Contact__
 
   - Contact page giving the address, contact number and a contact form for people to locate and contact Alligator Bay.
