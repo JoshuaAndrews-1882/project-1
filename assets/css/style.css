@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Bangers&family=Montserrat&display=swap');
+/* default border, margin and padding */
+
 * {
 	border: none;
 	margin: 0;
