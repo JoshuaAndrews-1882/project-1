@@ -78,6 +78,7 @@ Alligator Bay will be especially useful for tourists coming to visit the Evergla
 - __Contact Bottom Image__
 
   - A large image of an alligator that is 100% width of the page.
+  - The submit button has been made to look like it sits on the picture as it creates a nice flow.
   - This will help keep the user interested in the site, keeping them visually happy and interested.
 
 ![Contact Bottom Image](assets/readme-images/contactbimage.jpg)
