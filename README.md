@@ -122,3 +122,9 @@ Alligator Bay will be especially useful for tourists coming to visit the Evergla
   - If it says ready but still not loading then wait a little longer, it will eventually load.
 
 The link for this site is as followed - https://joshuaandrews-1882.github.io/project-1/index.html
+
+## Credits
+
+### Content
+
+- 123
