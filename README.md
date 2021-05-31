@@ -30,3 +30,7 @@ Alligator Bay will be especially useful for tourists coming to visit the Evergla
 - __Home Image__
 
   - This image is to give the user a visual feeling and help keep them interested in seeing alligators.
+
+- __Footer__
+
+  - A basic footer with images linking to various social networks, this is consistent across all three pages.
