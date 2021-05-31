@@ -22,47 +22,62 @@ Alligator Bay will be especially useful for tourists coming to visit the Evergla
   - The first section of information on the home page shows the entry price to Alligator Bay, some information regarding alligators, what they can see at Alligator Bay and what a amenities are available.
   - This will allow users to know the price to enter and what is available on site.
 
-- __Three Images__
+![Home Information Image](assets/readme-images/information.jpg)
 
-   - There are three images sitting above the opening times, show times and feeding times.
-   - This will help keep the user interested in the site, keeping them visually happy and interested.
+- __Three Images & Times Section__
 
-- __Times Section__
-
+  - There are three images sitting above the opening times, show times and feeding times.
+  - This will help keep the user interested in the site, keeping them visually happy and interested.
   - The times section shows the user the opening times, live show times and feeding times.  
   - This will allow the user to plan for their day and when they would be able to see certain events happening before arriving.
+
+![Three Images and Times Section Images](assets/readme-images/times.jpg)
 
 - __Home Bottom Image__
 
   - A large image of an alligator that is 100% width of the page.
   - This will help keep the user interested in the site, keeping them visually happy and interested.
 
+![Home Bottom Image](assets/readme-images/homebimage.jpg)
+
 - __Footer__
 
   - A basic footer with images linking to various social networks, this is consistent across all three pages.
   - This will allow the user to keep connected via different social networking sites.
+
+![Footer Image](assets/readme-images/footer.jpg)
 
 - __Our Alligators__
 
   - This section gives some information about the alligators and shows a video of the alligators.
   - This will give the user a visual experience of what they would come to see.
 
+![Alligator Information and Video](assets/readme-images/alligatorvideo.jpg)
+
 - __Alligator Facts__
 
   - Some information regarding facts about alligators.
   - This will give the user some information about alligators and get them more interested in coming to see them.
+
+![Alligator Facts Image](assets/readme-images/alligatorfacts.jpg)
 
 - __Meet The Alligators Bottom Image__
 
   - A large image of an alligator that is 100% width of the page.
   - This will help keep the user interested in the site, keeping them visually happy and interested.
 
+![Meet The Alligators Bottom Image](assets/readme-images/btabimage.jpg)
+
 - __Contact__
 
   - Contact page giving the address, contact number and a contact form for people to locate and contact Alligator Bay.
   - This will allow the user to easily find where Alligator Bay is located and contact Alligator Bay for any enquiries they may have.
 
+![Contact Image](assets/readme-images/contact.jpg)
+
 - __Contact Bottom Image__
 
   - A large image of an alligator that is 100% width of the page.
   - This will help keep the user interested in the site, keeping them visually happy and interested.
+
+![Contact Bottom Image](assets/readme-images/contactbimage.jpg)
