@@ -30,7 +30,7 @@ Alligator Bay will be especially useful for tourists coming to visit the Evergla
   - The times section shows the user the opening times, live show times and feeding times.  
   - This will allow the user to plan for their day and when they would be able to see certain events happening before arriving.
 
-- __Home Image__
+- __Home Bottom Image__
 
   - A large image of an alligator that is 100% width of the page.
   - This will help keep the user interested in the site, keeping them visually happy and interested.
@@ -49,6 +49,11 @@ Alligator Bay will be especially useful for tourists coming to visit the Evergla
 
   - Some information regarding facts about alligators.
   - This will give the user some information about alligators and get them more interested in coming to see them.
+
+- __Meet The Alligators Bottom Image__
+
+  - A large image of an alligator that is 100% width of the page.
+  - This will help keep the user interested in the site, keeping them visually happy and interested.
 
 - __Contact__
 
