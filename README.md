@@ -110,3 +110,15 @@ Alligator Bay will be especially useful for tourists coming to visit the Evergla
 
 - Image files being larger, attempted to use a different format that would give a smaller image size but Gitpod doesn't support.
 - Video being embedded for YouTube causing a slower page load, feel this is the best way as it would help guide people to the websites YouTube page.
+
+## Deployment
+
+- __The website was deployed on GitHub pages, it is done as followed:__
+
+  - In the repository for the website to be published, click on settings.
+  - Click on the pages tab.
+  - In Source change the branch to master, ensure root is selected next to it and then click save.
+  - A link will appear for your website, wait a few minutes and refresh, it should be ready.
+  - If it says ready but still not loading then wait a little longer, it will eventually load.
+
+The link for this site is as followed - https://joshuaandrews-1882.github.io/project-1/index.html
