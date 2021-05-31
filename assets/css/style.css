@@ -4,27 +4,20 @@
 	padding: 0;
 	border: none;
 }
+/* background color */
+
 html {
 	background: #234F32;
 }
+/* text styles */
 body, input, h4, label, textarea {
 	color: whitesmoke;
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 900;
 }
-/* header image and title */
 
-#header-image {
-	background-image: url('../images/alligator1.jpg');
-	background-position: center;
-	background-size: cover;
-	height: 300px;
-	padding-bottom: 5vh;
-}
-#header-image h1 {
-	float: left;
-	font-size: 4.8em;
-	margin: 2rem;
+.text-center {
+	text-align: center;
 }
 h1, h2, h3 {
 	color: whitesmoke;
@@ -40,6 +33,20 @@ h3 {
 }
 p, h4, li {
 	font-size: 1.2em;
+}
+/* header image and title */
+
+#header-image {
+	background-image: url('../images/alligator1.jpg');
+	background-position: center;
+	background-size: cover;
+	height: 300px;
+	padding-bottom: 5vh;
+}
+#header-image h1 {
+	float: left;
+	font-size: 4.8em;
+	margin: 2rem;
 }
 /* navigation links */
 
@@ -66,6 +73,12 @@ p, h4, li {
 }
 nav {
 	padding: 0 0 20px 0;
+}
+/* three home page images */
+
+.three-image {
+	text-align: center;
+	padding: 20px 0 20px 0;
 }
 /* bottom of page images */
 
@@ -98,17 +111,6 @@ nav {
 }
 .mta-padding {
 	padding-bottom: 20px;
-}
-/* text styles */
-
-.text-center {
-	text-align: center;
-}
-/* activities */
-
-.three-image {
-	text-align: center;
-	padding: 20px 0 20px 0;
 }
 /* footer */
 
