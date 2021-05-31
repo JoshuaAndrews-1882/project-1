@@ -66,7 +66,7 @@ Alligator Bay will be especially useful for tourists coming to visit the Evergla
   - A large image of an alligator that is 100% width of the page.
   - This will help keep the user interested in the site, keeping them visually happy and interested.
 
-![Meet The Alligators Bottom Image](assets/readme-images/btabimage.jpg)
+![Meet The Alligators Bottom Image](assets/readme-images/mtabimage.jpg)
 
 - __Contact__
 
