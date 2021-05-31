@@ -25,4 +25,4 @@ Alligator Bay will be especially useful for tourists coming to visit the Evergla
 
 - __Times Section__
 
-  - The times section shows the user
+  - The times section shows the user the opening times, live show times and feeding times.  This will allow the user to plan for their day and when they would be able to see certain events happening before arriving.
