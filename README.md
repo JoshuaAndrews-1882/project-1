@@ -137,9 +137,11 @@ The link for this site is as followed - https://joshuaandrews-1882.github.io/pro
 - A guide on how to make the content responsive for different sized screens was taken from [Eugenio on YouTube](https://www.youtube.com/channel/UCdPMJB0w--p9xrlvFeYz5wA).
 - Instructions for a reponsive contact form was taken from [w3schools](https://www.w3schools.com/howto/howto_css_responsive_form.asp).
 - The icons for the footer were taken from [Font Awesome](https://fontawesome.com/).
-- Instructions to space the social media icons was taken from the Love Running project by [Code Institute](https://codeinstitute.net/)
+- Instructions to space the social media icons was taken from the Love Running project by [Code Institute](https://codeinstitute.net/).
+- Instructions to do the gallery was taken from the Love Running project as it suited my different sized pictures, the Love Running project is by [Code Institute](https://condeinstitute.net/).
 
 ### Media
 
 - The photos used on this site were taken from [Unsplash](https://unsplash.com/)
-- The video is my own personal video.
+- The photos used in the gallery are my own personal photos.
+- The video in the Meet the Alligator section is my own personal video.
