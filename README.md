@@ -18,19 +18,29 @@ Alligator Bay will be especially useful for tourists coming to visit the Evergla
 - __Home Page Information__
 
   - The first section of information on the home page shows the entry price to Alligator Bay, some information regarding alligators, what they can see at Alligator Bay and what a amenities are available.
+  - This will allow users to know the price to enter and what is available on site.
 
 - __Three Images__
 
-   - There are 3 images sitting above the opening times, show times and feeding times.  This is to give the user a visual feeling on alligators, to draw their attention and help keep them interested.
+   - There are three images sitting above the opening times, show times and feeding times.
+   - This will help keep the user interested in the site, keeping them visually happy and interested.
 
 - __Times Section__
 
-  - The times section shows the user the opening times, live show times and feeding times.  This will allow the user to plan for their day and when they would be able to see certain events happening before arriving.
+  - The times section shows the user the opening times, live show times and feeding times.  
+  - This will allow the user to plan for their day and when they would be able to see certain events happening before arriving.
 
 - __Home Image__
 
-  - This image is to give the user a visual feeling and help keep them interested in seeing alligators.
+  - A large image of an alligator that is 100% width of the page.
+  - This will help keep the user interested in the site, keeping them visually happy and interested.
 
 - __Footer__
 
   - A basic footer with images linking to various social networks, this is consistent across all three pages.
+  - This will allow the user to keep connected via different social networking sites.
+
+- __Our Alligators__
+
+ - This section gives some information about the alligators and shows a video of the alligators.
+ - This will give the user a visual experience of what they would come to see.
